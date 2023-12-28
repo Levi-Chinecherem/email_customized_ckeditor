@@ -24,6 +24,7 @@ Follow these instructions to set up and run O Sender on your local machine.
    ```bash
    git clone https://github.com/Levi-Chinecherem/email_customized_ckeditor.git
 
+   ```
 2. Change to the project directory:
 
    ```bash
@@ -67,8 +68,3 @@ Feel free to contribute to the development of O Sender by submitting issues or p
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Make sure to customize the sections like prerequisites, installation, and usage based on your actual project structure and requirements. If you have additional steps or configurations specific to your project, include them in the appropriate sections.
-```
